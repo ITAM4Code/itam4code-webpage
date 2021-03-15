@@ -1,4 +1,4 @@
-### Maintainer: 
+### Maintainer: @raarv
 
 # REGLAS GENERALES:
 1. Alguna de las personas de este proyecto debe anotar su nombre de usario en la línea de arriba donde dice "maintainer". Ésta persona estará encargada de platicar con la mesa de avances periodicamente, no es precisamente líder de proyecto.
@@ -13,4 +13,3 @@
   - Utilizar el wiki o discussions para dejar documentadas sus decisiones de diseño.
 
 5. Las reglas estándar de conducta de la OE aplican también en GitHub y a las interacciones que se puedan dar.
-
