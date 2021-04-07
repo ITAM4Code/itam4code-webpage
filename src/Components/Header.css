@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Squada+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.Header{
+    background-color: #272727
+}
+
+.Jumbotron{
+    background-color: #272727;
+    text-align: center;
+    padding: 2rem 0rem;
+}
+
+.Tittle{
+    color:white;
+    font-family: 'Squada One', cursive;
+}
+
+.Text{
+    font-family: 'Roboto', sans-serif;
+    color:white;
+}
+
+.Icons {
+    display: inline;
+    text-align: right;
+}
+
+.SocialMedia{
+    text-align: right;
+}
+
+.Icons .row{
+    display: inline-flex;
+    margin: 10px; 
+}
+
+.Icon{
+    color: white;
+    border-radius: 5px;
+}
+
+.Icon:hover{
+    color: rgb(160, 160, 160);
+    cursor: pointer;
+}
+
+
+
+
+
