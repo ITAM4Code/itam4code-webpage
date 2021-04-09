@@ -14,4 +14,5 @@ Para iniciar:
 Instalar: 
 ```pkg install npm```
 
-Instalar dependencias con yarn
+Instalar dependencias escribiendo en la terminal: 
+```yarn```
