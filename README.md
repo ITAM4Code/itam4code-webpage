@@ -3,18 +3,19 @@
 # Requisitos:
 
 
-1. Instalar: 
-```pkg install npm```
-
-2. Instalar yarn
-``` npm install --global yarn```
-
-3. Instalar node:
+1. Instalar node:
 ```pkg install nodejs```
 
+2. Instalar: 
+```pkg install npm```
+
+3. Instalar yarn
+``` npm install --global yarn```
+
+Instalar dependencias escribiendo en la terminal: 
+```yarn```
 
 Para iniciar:
 ``` yarn start```
 
-Instalar dependencias escribiendo en la terminal: 
-```yarn```
+
