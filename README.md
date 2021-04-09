@@ -4,10 +4,7 @@
 
 Instalar node:
 
-```
-pkg install nodejs
-
-```
+```pkg install nodejs```
 
 Instalar yarn
 ``` npm install --global yarn```
