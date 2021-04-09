@@ -3,7 +3,6 @@
 # Requisitos:
 
 Instalar node:
-
 ```pkg install nodejs```
 
 Instalar yarn
@@ -11,3 +10,8 @@ Instalar yarn
 
 Para iniciar:
 ``` yarn start```
+
+Instalar: 
+```pkg install npm```
+
+Instalar dependencias con yarn
